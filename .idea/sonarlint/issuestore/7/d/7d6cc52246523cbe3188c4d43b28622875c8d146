@@ -1,0 +1,61 @@
+
+e
+java:S1192Ş"NDefine a constant instead of duplicating this literal "applyinfoList" 4 times.(òÔÙ
+^
+java:S1192^"IDefine a constant instead of duplicating this literal "streason" 3 times.(·ª
+d
+java:S1192_"IDefine a constant instead of duplicating this literal "atreason" 3 times.(éÂ„åúÿÿÿÿ
+b
+java:S1192V"GDefine a constant instead of duplicating this literal "atname" 3 times.(¨ÒˆÄüÿÿÿÿ
+b
+java:S1192b"GDefine a constant instead of duplicating this literal "stname" 3 times.(†»Æœıÿÿÿÿ
+]
+java:S1192a"GDefine a constant instead of duplicating this literal "status" 5 times.(Øî¿÷
+P
+java:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿
+V	java:S125"<This block of commented-out lines of code should be removed.(¢§Ñùÿÿÿÿ
+t
+java:S1989!"^Handle the following exceptions that could be thrown by "save": ServletException, IOException.(Ö¨Ø
+{
+java:S1989$"`Handle the following exceptions that could be thrown by "delete": ServletException, IOException.(¾úÉıÿÿÿÿ
+v
+java:S1989'"`Handle the following exceptions that could be thrown by "update": ServletException, IOException.(›Ä­Ø
+t
+java:S1989*"_Handle the following exceptions that could be thrown by "query": ServletException, IOException.(£Ûªh
+y
+java:S1989-"^Handle the following exceptions that could be thrown by "shen": ServletException, IOException.(ÕàÄÍùÿÿÿÿ
+w
+java:S19890"bHandle the following exceptions that could be thrown by "lastShen": ServletException, IOException.(æ½
+w
+java:S19893"\Handle the following exceptions that could be thrown by "me": ServletException, IOException.(¢¥Â›üÿÿÿÿ
+s
+java:S19896"]Handle the following exceptions that could be thrown by "get": ServletException, IOException.(ˆ³×ã
+~
+java:S19899"cHandle the following exceptions that could be thrown by "firstShen": ServletException, IOException.(¿Ü¸ßşÿÿÿÿ
+
+java:S1989<"dHandle the following exceptions that could be thrown by "secondShen": ServletException, IOException.(êâ êúÿÿÿÿ
+u
+java:S1989?"_Handle the following exceptions that could be thrown by "lShen": ServletException, IOException.(æµºî
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(Òÿ¡ß
+f
+java:S1989E"PHandle the following exception that could be thrown by "getWriter": IOException.(×–·›
+U
+java:S1161M":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ
+{
+java:S1989N"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(³æ£õùÿÿÿÿ
+N
+java:S1854]"9Remove this useless assignment to local variable "ctime".(Ÿ¶œ
+
+java:S1130U"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(–õ¾ò
+’
+java:S1130~"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(Ø…ïçúÿÿÿÿ
+
+java:S1130¥"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ãè
+
+java:S1130‰"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ŠÊïÙ
+“
+java:S1130˜"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ÖüßÑÿÿÿÿÿ
+?
+java:S1481]"*Remove this unused "ctime" local variable.(Ÿ¶œ
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(øöíÌ

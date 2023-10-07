@@ -1,0 +1,43 @@
+
+f
+java:S2095æ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú
+F
+java:S3740"/Provide the parametrized type for this generic.(¹şÎÆ
+F
+java:S3740Â"/Provide the parametrized type for this generic.(¹şÎÆ
+c
+java:S1192…"GDefine a constant instead of duplicating this literal "atname" 4 times.(ÈÙÙÒıÿÿÿÿ
+a
+java:S1192~"FDefine a constant instead of duplicating this literal "prove" 4 times.(”ê…½ùÿÿÿÿ
+^
+java:S1192‡"GDefine a constant instead of duplicating this literal "remark" 4 times.(™íÃ´
+^
+java:S1192}"HDefine a constant instead of duplicating this literal "content" 4 times.(Û®éü
+\
+java:S1192€"FDefine a constant instead of duplicating this literal "ctime" 4 times.(¼Ôı@
+e
+java:S1192ƒ"IDefine a constant instead of duplicating this literal "streason" 4 times.(õüÆ—şÿÿÿÿ
+`
+java:S1192†"IDefine a constant instead of duplicating this literal "atreason" 4 times.(Ÿ‚Œœ
+c
+java:S1192‚"GDefine a constant instead of duplicating this literal "stname" 4 times.(ä²¶´úÿÿÿÿ
+]
+java:S1192"GDefine a constant instead of duplicating this literal "status" 4 times.(’ÿ¸Í
+o
+java:S1488+"YImmediately return this expression instead of assigning it to the temporary variable "i".(ø¸º‚
+o
+java:S1488?"YImmediately return this expression instead of assigning it to the temporary variable "i".(ø¸º‚
+o
+java:S1488b"YImmediately return this expression instead of assigning it to the temporary variable "i".(ø¸º‚
+P
+java:S1854"9Remove this useless assignment to local variable "clazz".(¹şÎÆ
+u
+java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹üòƒüÿÿÿÿ
+P
+java:S1854Â"9Remove this useless assignment to local variable "clazz".(¹şÎÆ
+u
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹üòƒüÿÿÿÿ
+A
+java:S1481"*Remove this unused "clazz" local variable.(¹şÎÆ
+A
+java:S1481Â"*Remove this unused "clazz" local variable.(¹şÎÆ

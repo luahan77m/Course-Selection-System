@@ -1,0 +1,61 @@
+
+~
+java:S1192¢"bDefine a constant instead of duplicating this literal "è¯·æ£€æŸ¥ç”¨æˆ·åå¯†ç åŠæƒé™" 3 times.(Ú™óöıÿÿÿÿ
+f
+java:S1192¬"JDefine a constant instead of duplicating this literal "loginUser" 4 times.(Ü…çıÿÿÿÿ
+_
+java:S1192O"IDefine a constant instead of duplicating this literal "password" 3 times.(ÀÜÜü
+u
+java:S1192d"ZDefine a constant instead of duplicating this literal "StudentServlet?type=query" 3 times.(áˆ îşÿÿÿÿ
+b
+java:S1192£"KDefine a constant instead of duplicating this literal "denglu.jsp" 4 times.(…±±
+`
+java:S1192­"IDefine a constant instead of duplicating this literal "main.jsp" 3 times.(æˆ ¸
+d
+java:S1192U"IDefine a constant instead of duplicating this literal "username" 3 times.(Ö¡Œ‰ûÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿
+V	java:S125"<This block of commented-out lines of code should be removed.(¢§Ñùÿÿÿÿ
+t
+java:S1989#"^Handle the following exceptions that could be thrown by "save": ServletException, IOException.(Ö¨Ø
+{
+java:S1989&"`Handle the following exceptions that could be thrown by "delete": ServletException, IOException.(¾úÉıÿÿÿÿ
+v
+java:S1989)"`Handle the following exceptions that could be thrown by "update": ServletException, IOException.(›Ä­Ø
+t
+java:S1989,"_Handle the following exceptions that could be thrown by "query": ServletException, IOException.(£Ûªh
+s
+java:S1989/"]Handle the following exceptions that could be thrown by "get": ServletException, IOException.(ˆ³×ã
+y
+java:S19892"^Handle the following exceptions that could be thrown by "edit": ServletException, IOException.(ÇÄÔíşÿÿÿÿ
+u
+java:S19895"_Handle the following exceptions that could be thrown by "login": ServletException, IOException.(ğæÓ
+v
+java:S19898"`Handle the following exceptions that could be thrown by "logout": ServletException, IOException.(Ú¢õ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(Òÿ¡ß
+f
+java:S1989>"PHandle the following exception that could be thrown by "getWriter": IOException.(×–·›
+U
+java:S1161F":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ
+{
+java:S1989G"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(³æ£õùÿÿÿÿ
+
+java:S1130N"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(–õ¾ò
+’
+java:S1130h"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(Ø…ïçúÿÿÿÿ
+
+java:S1130…"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ãè
+2
+java:S3626Ê"Remove this redundant jump.(ûÁİ…
+2
+java:S3626Ó"Remove this redundant jump.(ûÁİ…
+V
+java:S2441¬":Make "User" serializable or don't store it in the session.(Ü…çıÿÿÿÿ
+V
+java:S2441¿":Make "User" serializable or don't store it in the session.(Ü…çıÿÿÿÿ
+V
+java:S2441Ñ":Make "User" serializable or don't store it in the session.(Ü…çıÿÿÿÿ
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Ùßğåøÿÿÿÿ
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(‘Í¡ÿÿÿÿÿ
