@@ -1,39 +1,47 @@
-# Course-Selection-System
-This system provides a convenient set of course application and approval functions for students and teachers.
+一、项目目的
+该系统为学生和教师提供了一套方便的课程申请和审批功能。
 
-# Functions of the online course application module:
-[Student login function]
-Students with existing accounts can log in to the application system online.
-User account data can be pre stored in the database.
-[Online application function]
-After the student logs in, select the course to apply for from the list of available courses.
-Each application can only select one course and cannot be repeated.
-When applying for a course, necessary application information should be filled in, such as the reason for application, upload proof, etc.
-Detailed course data can be pre stored in a database.
-[Applied courses, approval progress query function]
-Applications during the approval process can be queried for progress.
-The approval status includes: application submitted, course lecturer in process of approval, course supervisor in process of approval, approval successful, and application rejected.
-After the approval is completed, which means that the approval status is either successful or rejected, students can click confirm to complete this application.
-After completing this application, the application information will no longer be visible in the progress query function.
-For courses that have been rejected, a new application can be resubmitted after offline communication.
-[Query function of applied course approval records]
-Students can access all the records they have applied for, including records of approval and rejection.
-Application records can be displayed in pages and queried using multiple criteria.
+二、项目功能
+1、在线课程申请模块功能:
+1.1学生登录功能
+已有账号学生可以在线登录到申请系统中。
+用户账户数据可预先存储到数据库中。
+1.2在线申请功能
+学生登录后，在可选课程列表中，选择要申请的课程。
+每次申请只能选择一门课程，不可重复申请。
+申请课程时，应填写必要的申请信息，如：申请原因、上传证明等。
+课程详细数据可预先存储到数据库中。
+1.3已申请课程，审批进度查询功能
+审批过程中的申请可以进行进度查询。
+审批状态有：申请已提交、课程主讲教师审批中、课程主管教师审批中、审批成功、申请驳回。
+审批结束后，也就是审批状态为成功或者驳回，学生可以点击确认，完成本次申请。
+结束本次申请后，在进度查询功能中不能再看到该条申请信息。
+被驳回申请的课程，可线下沟通后，再次重新提交新的申请。
+1.4已申请课程审批记录查询功能
+学生可查询本人已申请的全部记录，包括审批通过和驳回的记录。
+申请记录可使用分页显示，可使用多条件查询。
 
-# Online approval module function:
-[Course application approval function]
-Teachers with existing teacher role accounts can log in to the approval function.
-The user segmentation of the teacher role is as follows: the course lecturer and supervisor, with the lecturer being the first approver of the course and the supervisor being the second approver.
-The correspondence data between the main lecturer and the supervising teacher of the specific course can be stored in the database in advance.
-If the submitted application does not meet the application requirements, it can be rejected, but the specific reason for rejection must be filled in so that students can submit a new application again.
-[Approved Application Query Function]
-Teachers can query approved applications, and the query results can be displayed in separate pages and queried using multiple criteria.
+2、在线审批模块功能:
+2.1课程申请审批功能
+已有教师角色账号的教师可登录审批功能。
+教师角色用户细分为：课程主讲教师和主管教师，主讲教师为该门课程的第一审批人，主管教师为第二审批人。
+具体课程的主讲和主管教师对应关系数据，可预先存储到数据库中。
+如果已提交的申请不符合申请条件，可以驳回，但驳回必须填写具体的原因，以便学生再次提交新的申请。
+2.2已审批申请查询功能
+教师可查询已审批的申请，查询结果可使用分页显示，可使用多条件查询。
 
-# Additional features：
-[System backend]
+3、额外功能：
+3.1系统后台
 System user management, course application course management, user approval authority management (relationship between courses and approved teachers), approval record query, export of approved records, and other functions.
-[Create Approval Process]
-According to specific requirements, a course approval process can be dynamically created, and approval steps and approvers for different types of courses can be dynamically specified.
+3.2创建审批流
+可根据具体要求，动态创建课程审批流程，可动态指定不同类别课程的审批步骤及审批人。
 
-# Expand demand
-When designing a system, it is necessary to consider its scalability, compatibility, usability, universality, robustness, cross platform, and continuous integration, which not only meets existing needs but also adapts to future development capabilities.
+4、拓展需求:
+系统设计时需考虑系统的延展性、兼容性、可用性、通用性、健壮性、跨平台及持续集成，不仅能满足现有需要，也要适应未来发展的能力。
+
+三、实验环境
+1．集成开发工具：IDEA
+2．数据库：MySQL
+3．操作系统：不限
+4．Web服务器：Tomcat
+5．可使用IDEA集成的Maven工具构建工程依赖
