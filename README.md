@@ -32,7 +32,7 @@
 
 3、额外功能：
 3.1系统后台
-System user management, course application course management, user approval authority management (relationship between courses and approved teachers), approval record query, export of approved records, and other functions.
+系统用户管理、课申请课程管理、用户审批权限管理（课程与审批教师关系）、审批记录查询、导出已审批通过记录等功能。
 3.2创建审批流
 可根据具体要求，动态创建课程审批流程，可动态指定不同类别课程的审批步骤及审批人。
 
